@@ -474,7 +474,7 @@ const atsHTML = `
         </motion.section>
       )}
 
-      {loadingSummary && renderLoadingOverlay('Generating professional summary with AI...')}
+  
     
     </div>
   );
